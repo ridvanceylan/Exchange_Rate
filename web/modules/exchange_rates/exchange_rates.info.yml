@@ -1,0 +1,5 @@
+name: "Exchange Rates"
+type: module
+description: "Handles comparison of exchange rates from different providers."
+core_version_requirement: ^10
+package: Custom

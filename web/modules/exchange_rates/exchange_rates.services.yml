@@ -1,0 +1,6 @@
+services:
+  exchange_rates.provider1_adapter:
+    class: Drupal\exchange_rates\Adapter\Provider1Adapter
+
+  exchange_rates.provider2_adapter:
+    class: Drupal\exchange_rates\Adapter\Provider2Adapter

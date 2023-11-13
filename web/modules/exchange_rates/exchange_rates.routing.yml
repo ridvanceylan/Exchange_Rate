@@ -1,0 +1,7 @@
+exchange_rates.exchange_rates:
+  path: "/exchange-rates"
+  defaults:
+    _controller: '\Drupal\exchange_rates\Controller\ExchangeRatesController::content'
+    _title: "Exchange Rates"
+  requirements:
+    _permission: "access content"
