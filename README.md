@@ -1,3 +1,3 @@
 # Exchange_Rate
 
-/exchange-rates
+localhost/exchange-rates
